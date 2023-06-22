@@ -20,3 +20,4 @@ while True:
 storage.save(data)
 
 print("Scraping completed. Data saved to 'quotes.json'.")
+
